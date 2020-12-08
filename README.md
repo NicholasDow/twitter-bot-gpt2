@@ -6,6 +6,7 @@ Things, this has
 - GPT2 tweet generation script
   - model file here:
   - https://drive.google.com/file/d/1Hmpwr87FZfbT9I-PKhV2Jn6nHtv2VVf5/view?usp=sharing
+  - https://twitter.com/Simplebot12
 - tweets texts that I generated
 - A twint script that helps downloads and processes tweets beyond 3200 api rate limit that twitter put in place since the election
 - Collected tweets from accounts that I thought would make for good generation. Feel free to download any of them and use for yourself. They don't have links, some of them might include replies. if you don't want replies then run the script again on the account.
