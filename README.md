@@ -1,6 +1,10 @@
 # twitter-bot
- it's a twitterbot
+I'm keeping all my twitter bot related stuff here.
 
+Things, this has
+- Twitter bot that runs scripts
+- GPT2 tweet generation script
+- tweet text that I have to curate to find funny ones
 
 # To DO
 
