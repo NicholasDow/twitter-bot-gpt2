@@ -8,7 +8,7 @@ Things, this has
   - https://drive.google.com/file/d/1Hmpwr87FZfbT9I-PKhV2Jn6nHtv2VVf5/view?usp=sharing
 - tweets texts that I generated
 - A twint script that helps downloads and processes tweets beyond 3200 api rate limit that twitter put in place since the election
-- Collected tweets from accounts that I thought would make for good generation
+- Collected tweets from accounts that I thought would make for good generation. Feel free to download any of them and use for yourself. They don't have links, some of them might include replies. if you don't want replies then run the script again on the account.
 
 # To DO
 
@@ -22,4 +22,14 @@ I would like to be able to train tweet generation on geographic locations pretai
 
 I would also like to generate tweets for the average harvard student. I will collect geo tweets from leverett once the pandemic is over
 
+# Notes
 
+## GPT2
+- the ideal loss for funny tweets is somewhere around 1.25. 
+- running on a 124M+ is only nescessary if you ALOT of data.
+
+## Twint
+- You have to use the github version of twint instead of the pip version of twint if you want to run it in a python script rather than in a command line, at least as of writing this
+- I think there will be more issues with twint as twitter tries to crack down more
+- The issue with downloading tweets
+(note to self, when you next have to go through the process of installing, put links to the forums that had the solutions to problems encountered)(issues with script)(issues with twint)
