@@ -26,7 +26,7 @@ I would also like to generate tweets for the average harvard student. I will col
 
 ## GPT2
 - the ideal loss for funny tweets is somewhere around 1.25. 
-- running on a 124M+ is only nescessary if you ALOT of data.
+- running on a 124M+ is only nescessary if you have ALOT of data.
 
 ## Twint
 - You have to use the github version of twint instead of the pip version of twint if you want to run it in a python script rather than in a command line, at least as of writing this
